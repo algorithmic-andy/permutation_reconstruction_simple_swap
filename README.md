@@ -91,7 +91,7 @@ Possible future extensions include:
 * multiple interacting hypotheses;
 * learned proposal mechanisms;
 * MCTS or other structured search procedures;
-* compatibility measures derived from decomposed reconstruction losses.
+* compatibility metrics derived from decomposed reconstruction losses.
 
 The goal of this repository is therefore not to present a finished reconstruction algorithm, but to establish a clean experimental foundation for studying **coupled statistical search over permutation spaces**.
 
